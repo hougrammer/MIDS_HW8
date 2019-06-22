@@ -1,7 +1,7 @@
 # W251 Homework 8
 
 ## Part 1
-1. 385 images
+1. 384 images
 2. 313 Millenium Falcons, 307 Tie fighters
 3. Ask Mechanical Turk
 4. The labels should not change but the bounding boxes might
