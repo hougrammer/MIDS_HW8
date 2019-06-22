@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>videoplayback4306.jpg</filename>
+	<path>/home/david/MIDS_HW8/images/videoplayback4306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>millenium falcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>261</ymin>
+			<xmax>455</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tie fighter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>179</ymin>
+			<xmax>515</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tie fighter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>80</ymin>
+			<xmax>815</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>
